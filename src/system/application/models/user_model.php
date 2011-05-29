@@ -1,5 +1,7 @@
 <?php
 
+// This is just a test to see what would be comitted
+
 class User_model extends Model {
 
 	function User_model(){
